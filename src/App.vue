@@ -1,8 +1,8 @@
 <template>
   <div id="nav">
-    <router-link to="/">Home</router-link> | <router-link to="/about">About</router-link> |
-    <router-link to="/data">Data</router-link> | <router-link to="/method">Method</router-link> |
-    <router-link to="/v-if">V-if</router-link> | <router-link to="/v-for">V-for</router-link> |
+    <router-link to="/">Home</router-link> | <router-link to="/data">Data</router-link> |
+    <router-link to="/method">Method</router-link> | <router-link to="/v-if">V-if</router-link> |
+    <router-link to="/v-for">V-for</router-link> |
     <router-link to="/computed">Computed</router-link> |
     <router-link to="/class-binding">ClassBinding</router-link> |
     <router-link to="/style-binding">StyleBinding</router-link>
