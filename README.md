@@ -1,4 +1,4 @@
-# vue-trial
+# skillup-vue-trial
 
 ## Project setup
 ```
